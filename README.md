@@ -44,6 +44,13 @@
                     <p>linkedin.com/in/nicojngb</p>
                 </div>
             </div>
+            <div>
+                <p>Mi nombre es José Nicolás García Blanco tengo 23 años y mi sueño
+                    es dedicarme a la programación, programo desde los 15 años
+                    y quiero trabajar en grandes empresas para darles soluciones a las personas.
+                </p>
+            </div>
+
         </div>
 
         <div class="presentacion2">
@@ -132,3 +139,18 @@
 </body>
 
 </html>
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
