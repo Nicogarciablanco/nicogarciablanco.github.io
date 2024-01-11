@@ -1,0 +1,29 @@
+.logo{
+    text-align: center;
+}
+
+.fuente{
+    font-size: 1.25em;
+}
+
+.fondoservicios1{
+    background-color: #00d39c;
+    
+    padding: 5px;
+}
+
+.fondoservicios2{
+    background-color: #115cd3; 
+    padding: 5px;
+    
+}
+
+.fondoservicios3{
+    background-color: #e5e5e5; 
+    color: #115cd3;
+    padding: 5px;
+}
+
+footer{
+    background-color: rgba(255, 255, 255, 0.1);
+}

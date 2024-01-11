@@ -1,0 +1,21 @@
+.presentacióncarta{
+    background-color: rgba(255, 255, 255, 0.1); width: 70%;
+}
+
+.habilidades{
+    border-radius: 100px; 
+    border: 3px solid; 
+    width: 100px; 
+    margin: auto;
+}
+.contacto {
+    border-bottom: 3px solid;
+}
+
+.bordeedu {
+    border-left: 3px solid;
+}
+
+footer{
+    background-color: rgba(255, 255, 255, 0.1);
+}
